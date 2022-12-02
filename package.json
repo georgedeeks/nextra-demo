@@ -1,0 +1,16 @@
+{
+  "name": "nextra-demo",
+  "version": "1.0.0",
+  "description": "Demo of Nextra 2.0 from Berlin 2022 React Day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "nextra",
+    "documentation"
+  ],
+  "author": "George Deeks",
+  "license": "ISC"
+}
